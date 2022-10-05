@@ -6,7 +6,7 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <span style="display: flex; align-items: center; padding-left: 20px"> <img src="./google.png" width="40" height="40" /> <span style="padding: 5px 0 20px 0px">mhsghazi@gmail.com</span> </span>
-  <span style="display: flex; align-items: center; padding-left: 20px"> <img src="./tg.png" width="40" height="40" /> <span style="padding: 10px 0 20px 0px">mahsaghazi1991</span> </span>
+  <span style="display: flex; align-items: center; padding-left: 20px"> <img src="./tg.png" width="40" height="40" /> <span style="padding: 10px 0 20px 0px">mhs1991</span> </span>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
